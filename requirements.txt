@@ -9,4 +9,4 @@ apscheduler
 requests
 psutil
 pyromod
-Python 3.10.13
+python-3.10.8
